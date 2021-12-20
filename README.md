@@ -1,7 +1,9 @@
 # Azure-Databricks Connect Databricks to Power BI
  Connecting Databricks to Power BI using Azure Active Directory, which adds a much tighter security model and of best experience.
 
+
 # Creating Azure Databricks workspace
+
 
 * In the Azure home look for Databricks
 
@@ -31,6 +33,7 @@
 
 ![image](https://user-images.githubusercontent.com/92280659/146823912-2819b7d0-ecb7-4517-866e-c7ba647cbdea.png)
 
+
 # Carregando Dados
 
 * Go on create, Notebook
@@ -39,6 +42,7 @@
 ![image](https://user-images.githubusercontent.com/92280659/146824220-5020d976-baa9-4309-b63a-5fe32495572e.png)
 
 * Upload data
+
 ![image](https://user-images.githubusercontent.com/92280659/146824475-b0be64ef-eae0-4c0d-8c53-8c6a556a3883.png)
 
 ![image](https://user-images.githubusercontent.com/92280659/146824575-83381428-4240-42b7-b665-f663b4b64632.png)
@@ -46,6 +50,7 @@
 * Load the data
 
 ![image](https://user-images.githubusercontent.com/92280659/146824678-86285306-997b-4f98-a904-92dbd3f6f5aa.png)
+
 
 # Connecting Power BI to Azure Databricks
 
